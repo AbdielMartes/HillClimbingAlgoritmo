@@ -1,0 +1,14 @@
+C:\Users\habdi\RiderProjects\HillClimbing\HillClimbing\bin\Debug\net9.0\HillClimbing.exe
+C:\Users\habdi\RiderProjects\HillClimbing\HillClimbing\bin\Debug\net9.0\HillClimbing.deps.json
+C:\Users\habdi\RiderProjects\HillClimbing\HillClimbing\bin\Debug\net9.0\HillClimbing.runtimeconfig.json
+C:\Users\habdi\RiderProjects\HillClimbing\HillClimbing\bin\Debug\net9.0\HillClimbing.dll
+C:\Users\habdi\RiderProjects\HillClimbing\HillClimbing\bin\Debug\net9.0\HillClimbing.pdb
+C:\Users\habdi\RiderProjects\HillClimbing\HillClimbing\obj\Debug\net9.0\HillClimbing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\habdi\RiderProjects\HillClimbing\HillClimbing\obj\Debug\net9.0\HillClimbing.AssemblyInfoInputs.cache
+C:\Users\habdi\RiderProjects\HillClimbing\HillClimbing\obj\Debug\net9.0\HillClimbing.AssemblyInfo.cs
+C:\Users\habdi\RiderProjects\HillClimbing\HillClimbing\obj\Debug\net9.0\HillClimbing.csproj.CoreCompileInputs.cache
+C:\Users\habdi\RiderProjects\HillClimbing\HillClimbing\obj\Debug\net9.0\HillClimbing.dll
+C:\Users\habdi\RiderProjects\HillClimbing\HillClimbing\obj\Debug\net9.0\refint\HillClimbing.dll
+C:\Users\habdi\RiderProjects\HillClimbing\HillClimbing\obj\Debug\net9.0\HillClimbing.pdb
+C:\Users\habdi\RiderProjects\HillClimbing\HillClimbing\obj\Debug\net9.0\HillClimbing.genruntimeconfig.cache
+C:\Users\habdi\RiderProjects\HillClimbing\HillClimbing\obj\Debug\net9.0\ref\HillClimbing.dll
